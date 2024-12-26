@@ -17,3 +17,7 @@ https://user-images.githubusercontent.com/29085487/215684196-a6a83840-49aa-473e-
 
 ### 3. 后续版本升级
 待补充。
+
+### 4. 关于作者
+![image](https://github.com/user-attachments/assets/771b073f-f526-485d-8a75-9697450c07c9)
+
